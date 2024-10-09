@@ -12,3 +12,7 @@ Sitios de referencia:
 - https://www.gastovic.com.ar
 - https://geekon.com.ar
 - https://gothamstore.mitiendanube.com
+
+
+
+Link al tablero de trabajo de este proyecto en Trello: https://trello.com/b/HqQEs01G/proyecto-final-dh
